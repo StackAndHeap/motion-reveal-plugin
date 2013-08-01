@@ -1,7 +1,7 @@
 motion-reveal-plugin
 ====================
 
-As a test for the Leap Motion controller SDK, we've created a plugin for Reveal.js which enables you to control your presentation with gestures.
+As a test for the Leap Motion controller SDK (https://www.leapmotion.com/), we've created a plugin for Reveal.js which enables you to control your presentation with gestures.
 
 Usage
 =====
