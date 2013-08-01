@@ -1,4 +1,17 @@
 motion-reveal-plugin
 ====================
 
-A Reveal.js plugin which enables motion control with the Leap Motion controller
+As a test for the Leap Motion controller SDK, we've created a plugin for Reveal.js which enables you to control your presentation with gestures.
+
+Usage
+=====
+
+The plugin uses the swipe gestures to navigate to the next or previous slide.
+
+How to install
+==============
+
+1. Install the Reveal.js library. (https://github.com/hakimel/reveal.js)
+2. add the plugin script to the existing js folder.
+3. add the plugin script to the end of your index.html file.
+
