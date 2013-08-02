@@ -13,6 +13,7 @@ How to install
 ==============
 
 1. Install the Reveal.js library. (https://github.com/hakimel/reveal.js)
-2. add the plugin script to the existing js folder.
-3. add the plugin script to the end of your index.html file.
+2. add the Leap Motion sdk to the index file (//js.leapmotion.com/0.2.0/leap.js)
+3. add the plugin script to the existing js folder.
+4. add the plugin script to the end of your index.html file.
 
