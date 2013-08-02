@@ -7,6 +7,7 @@ Usage
 =====
 
 The plugin uses the swipe gestures to navigate to the next or previous slide.
+Pressing 'g' locks and unlocks navigation with gestures.
 
 How to install
 ==============
